@@ -42,3 +42,12 @@
   Any questions?
   
   ![qa](https://media4.giphy.com/media/D2SxorSv1AefQ8Bg0t/giphy.gif?cid=ecf05e474i6ex16jv4mr2psoara52qq2xxdl9xnt6dy1mk8n&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+- ## Resources 🍪
+   - [React dev tools chrome extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+   - [Page Speed](https://pagespeed.web.dev/)
+   - [Virtual dom and shadow dom](https://dev.to/aryclenio/react-fiber-virtual-dom-and-shadow-dom-the-ultimate-front-end-interview-questions-guide-pt-2-11fd)
+   - [Tree shaking](https://medium.com/@netxm/what-is-tree-shaking-de7c6be5cadd)
+   - [React documentation performance](https://react.dev/learn/render-and-commit#optimizing-performance)
+
+  
