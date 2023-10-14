@@ -5,14 +5,17 @@
 - ## [Why does performance matter?](PerfomanceMatters.MD)
   
   In this section, we will explore why performance matters in web applications and specifically in React
+  
   ![kipchoge](https://media0.giphy.com/media/ZbU05heJXilU7YDvYM/giphy.gif?cid=6c09b952cmrwo63oq3orzp8jrj9qd6ym9nnu7rmbfg7xjigj&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 - ## [Understanding the Virtual DOM](FiberandVirtual.md)
   This section delves into the Virtual DOM, a core concept in React. We'll cover how React uses the Virtual DOM for efficient updates, the reconciliation algorithm, and the advancements brought by React Fiber's Concurrent Mode.
+  
   ![confusion](https://i.giphy.com/media/4JVTF9zR9BicshFAb7/giphy.webp)
 
 - ## [Introduction to React Performance Optimization]()
   In this section, we will explore the fundamental concepts of React performance optimization. Understanding the key metrics and the impact of performance on user experience is essential for building efficient React applications.
+  
   ![optimize](https://media3.giphy.com/media/Yj6d4OMmDV3bnYtOow/giphy.gif?cid=ecf05e47tihonkzvav4cw88whm7t7pj3ivb1lubxhg0zppov&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 - ## [React Rendering: A Deep Dive](ReactRerendering.md)
