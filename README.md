@@ -13,7 +13,7 @@
   
   ![confusion](https://i.giphy.com/media/4JVTF9zR9BicshFAb7/giphy.webp)
 
-- ## [Introduction to React Performance Optimization]()
+- ## [Introduction to React Performance Optimization Metrics](MeasuringMetrics.MD)
   In this section, we will explore the fundamental concepts of React performance optimization. Understanding the key metrics and the impact of performance on user experience is essential for building efficient React applications.
   
   ![optimize](https://media3.giphy.com/media/Yj6d4OMmDV3bnYtOow/giphy.gif?cid=ecf05e47tihonkzvav4cw88whm7t7pj3ivb1lubxhg0zppov&ep=v1_gifs_search&rid=giphy.gif&ct=g)
